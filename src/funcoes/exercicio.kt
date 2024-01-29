@@ -14,6 +14,7 @@ fun anos(ano:Int){
     println("${ano*8766} horas")
     println("${ano*525960} minutos")
     println("${ano*31536000} segundos")
+
 }
 
 fun quant(carac:String) = (carac.length)
