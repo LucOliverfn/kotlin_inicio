@@ -5,7 +5,7 @@ fun main(){
 }
 
 fun desafio(){
-    var salario =10000f
+    val salario =10000f
     var inv_ana = 0f
     var inv_paula = 0f
     var meses =0
