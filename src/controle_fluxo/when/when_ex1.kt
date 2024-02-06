@@ -1,7 +1,5 @@
 package controle_fluxo.`when`
 
-import controle_fluxo.ex2
-
 fun ex1(cargo:String):Float{
     var bonus = 0f
     when (cargo){
